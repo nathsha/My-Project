@@ -7,8 +7,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile :-</h3> <img src="https://komarev.com/ghpvc/?username=nath-asha&label=Profile%20views&color=0e75b6&style=flat"
+    alt="nath-asha" /> 
   </p>
 
 <br>
