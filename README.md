@@ -114,6 +114,8 @@
     bg_color=#808080/></p>
 
 <br>
+<img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" style="max-width: 100%;">
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nath-asha&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="nath-asha" /></p>
