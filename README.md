@@ -114,6 +114,12 @@
     bg_color=#808080/></p>
 
 <br>
+<a href="https://github.com/nath-asha">
+   <img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="github stats" style="max-width: 100%;">
+    <img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="github stats" style="max-width: 100%;">
+<br>
+
+  </a>
 <img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" style="max-width: 100%;">
 <br>
 
