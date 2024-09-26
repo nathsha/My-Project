@@ -114,12 +114,6 @@
     bg_color=#808080/></p>
 
 <br>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/nath-asha">
-   <img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/nath-asha/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="github stats" />
-<br>
-<br>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nath-asha&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
